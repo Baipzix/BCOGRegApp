@@ -1,1 +1,13 @@
 streamlit
+geopandas
+matplotlib
+pandas
+numpy   
+plotly
+scikit-learn
+shapely
+requests
+zipfile
+os
+tempfile
+shutil
