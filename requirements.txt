@@ -1,5 +1,5 @@
 streamlit
-geopandas
+geopandas[all]
 matplotlib
 pandas
 numpy   
@@ -10,4 +10,4 @@ requests
 zipfile
 os
 tempfile
-shutil
+shutilS
