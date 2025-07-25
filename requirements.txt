@@ -1,13 +1,8 @@
-streamlit
-geopandas[all]
-matplotlib
-pandas
-numpy   
+geopandas==0.14.3
+pandas==2.2.2
+shapely==2.0.4
+streamlit==1.32.2
 plotly
 scikit-learn
 shapely
 requests
-zipfile
-os
-tempfile
-shutilS
